@@ -4,7 +4,9 @@ function debtPositions() {
 
     return(
         <div>
-            <h1>Welcome to bKES</h1>
+            <h1>Debt Positions</h1>
+            <table>
+            </table>
         </div>
         
     )
